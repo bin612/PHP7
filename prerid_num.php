@@ -4,7 +4,7 @@
     $num = 19 + 1;
     $msg = $num . "번" . PHP_EOL;
     $msg2 = $num . 77;
-    echo $msg;
+    echo $msg . '<br>';
     echo $msg2;
 
 ?>
